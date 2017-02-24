@@ -29,7 +29,7 @@ namespace Homework_4_2
 
         static void Main(string[] args)
         {
-            m1("string", 2, 9, 5, 1, 1, 1, 1);
+            m1("string", 2, 9, 5, 1, 1, 1, 1, 2);
             Console.Read();
         }
     }
